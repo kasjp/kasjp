@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kasjp
-- 🧑🏻‍🏭 Senior backend developer, c#/.net5
+- 🧑🏻‍🏭 Senior backend developer, c#/.net5 -> go
 - 📖 Currently researching on how to work around current bot-detection tools
 - 🐶 Working heavily with Puppeteer
 - 📫 Can reach me at kaspars@purens.lv
