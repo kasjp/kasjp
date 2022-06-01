@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kasjp
-- 🧑🏻‍🏭 Senior backend developer, go/js
-- 📖 Currently researching on how to work around current bot-detection tools
-- 🐶 Working heavily with Puppeteer
+- 👋 Hi, I’m Kaspars
+- 🧑🏻‍🏭 Senior full-stack developer
+- 🇱🇻 From eastern-europe, Latvia
 - 📫 Can reach me at kaspars@purens.lv
 <!---
 kasjp/kasjp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
