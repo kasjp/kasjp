@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Kaspars
 - 🧑🏻‍🏭 Senior full-stack developer
 - 🇱🇻 From eastern-europe, Latvia
+- ⌨️ JS/TS, .NET, Go, Rust, Haxe
 - 📫 Can reach me at kaspars@purens.lv
 <!---
 kasjp/kasjp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
